@@ -1,2 +1,2 @@
 # SQL-Data-Warehouse-Project
-Built a SQL-based data warehouse by processing raw data, performing cleaning and transformations, and structuring it into fact and dimension tables for analysis
+Built an ETL-based data warehouse using Bronze, Silver, and Gold layers; performed data cleaning, transformation, and designed fact and dimension tables using star schema for analytical queries
